@@ -9,7 +9,7 @@ class Pdftk < BaseCustom
   end
 
   def source_url
-    "https://binti.com.s3.amazonaws.com/heroku/pdftk/pdftk.tar.gz"
+    "https://s3.amazonaws.com/binti.com/heroku/pdftk/pdftk.tar.gz"
   end
 
   def used?
